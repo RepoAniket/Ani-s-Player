@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ani-s-Player/static/css/main.dedd70f2.css",
+    "main.js": "/Ani-s-Player/static/js/main.d1056938.js",
+    "index.html": "/Ani-s-Player/index.html",
+    "main.dedd70f2.css.map": "/Ani-s-Player/static/css/main.dedd70f2.css.map",
+    "main.d1056938.js.map": "/Ani-s-Player/static/js/main.d1056938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dedd70f2.css",
+    "static/js/main.d1056938.js"
+  ]
+}
